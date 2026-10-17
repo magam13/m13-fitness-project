@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="960" viewBox="0 0 1500 960">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10" fill="none" stroke="#222" stroke-width="1.5"/></marker></defs>
+<rect width="1500" height="960" fill="white"/>
+<rect x="550" y="30" width="400" height="95" fill="#f3f6f8" stroke="#222" stroke-width="2.4"/>
+<text x="750.0" y="70" font-family="Arial, sans-serif" font-size="31" font-weight="normal" text-anchor="middle" fill="#111">Интерфейс M13</text>
+<rect x="25" y="210" width="390" height="135" fill="#f3f6f8" stroke="#222" stroke-width="2.4"/>
+<text x="220.0" y="250" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Авторизация и роли</text>
+<text x="220.0" y="288" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Проверка доступа</text>
+<rect x="550" y="210" width="400" height="135" fill="#f3f6f8" stroke="#222" stroke-width="2.4"/>
+<text x="750.0" y="250" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Профиль и планирование</text>
+<text x="750.0" y="288" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Профиль и календарь</text>
+<rect x="1080" y="210" width="395" height="135" fill="#f3f6f8" stroke="#222" stroke-width="2.4"/>
+<text x="1277.5" y="250" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111">Тренировки и упражнения</text>
+<text x="1277.5" y="288" font-family="Arial, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" fill="#111">Подходы и результат</text>
+<rect x="25" y="460" width="390" height="135" fill="#f3f6f8" stroke="#222" stroke-width="2.4"/>
+<text x="220.0" y="500" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Питание и привычки</text>
+<text x="220.0" y="538" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Дневник питания</text>
+<rect x="550" y="460" width="400" height="135" fill="#f3f6f8" stroke="#222" stroke-width="2.4"/>
+<text x="750.0" y="500" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Прогресс и аналитика</text>
+<text x="750.0" y="538" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Показатели и статистика</text>
+<rect x="1080" y="460" width="395" height="135" fill="#f3f6f8" stroke="#222" stroke-width="2.4"/>
+<text x="1277.5" y="500" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Рекомендации</text>
+<text x="1277.5" y="538" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">и уведомления</text>
+<rect x="440" y="730" width="620" height="135" fill="#f3f6f8" stroke="#222" stroke-width="2.4"/>
+<text x="750.0" y="770" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Хранилище данных</text>
+<text x="750.0" y="808" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Серверная БД и файлы</text>
+<text x="750.0" y="846" font-family="Arial, sans-serif" font-size="29" font-weight="normal" text-anchor="middle" fill="#111">Локальная очередь</text>
+<line x1="550" y1="80" x2="220" y2="210" stroke="#222" stroke-width="2.4"  marker-end="url(#arrow)"/>
+<line x1="750" y1="125" x2="750" y2="210" stroke="#222" stroke-width="2.4"  marker-end="url(#arrow)"/>
+<line x1="950" y1="80" x2="1275" y2="210" stroke="#222" stroke-width="2.4"  marker-end="url(#arrow)"/>
+<line x1="950" y1="280" x2="1080" y2="280" stroke="#222" stroke-width="2.4"  marker-end="url(#arrow)"/>
+<line x1="1275" y1="345" x2="1275" y2="460" stroke="#222" stroke-width="2.4"  marker-end="url(#arrow)"/>
+<line x1="1275" y1="345" x2="950" y2="460" stroke="#222" stroke-width="2.4"  marker-end="url(#arrow)"/>
+<line x1="415" y1="525" x2="550" y2="525" stroke="#222" stroke-width="2.4"  marker-end="url(#arrow)"/>
+<line x1="750" y1="595" x2="750" y2="730" stroke="#222" stroke-width="2.4"  marker-end="url(#arrow)"/>
+<line x1="220" y1="595" x2="440" y2="730" stroke="#222" stroke-width="2.4"  marker-end="url(#arrow)"/>
+<line x1="1275" y1="595" x2="1060" y2="730" stroke="#222" stroke-width="2.4"  marker-end="url(#arrow)"/>
+<line x1="750" y1="345" x2="750" y2="460" stroke="#222" stroke-width="2.4"  marker-end="url(#arrow)"/>
+<text x="750" y="920" font-family="Arial, sans-serif" font-size="25" font-weight="normal" text-anchor="middle" fill="#111">Все прикладные модули проверяют права и используют хранилище</text>
+</svg>
